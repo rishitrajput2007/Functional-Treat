@@ -127,7 +127,71 @@ Sorted Data in Ascending Order:
 ```
 
 ---
+# Program Outputs
 
+## 1. Input Data
+
+This feature allows users to enter numerical data into the dataset.
+
+![Output 1](Output-1.png)
+
+---
+
+## 2. Display Data Summary (Built-in Function)
+
+Displays the total number of elements, minimum value, maximum value, sum, and average of the dataset.
+
+![Output 2](Output-2.png)
+
+---
+
+## 3. Calculate Factorial (Recursion)
+
+Calculates the factorial of a given number using a recursive function.
+
+![Output 3](Output-3.png)
+
+---
+
+## 4. Filter Data by Threshold (Lambda Function)
+
+Filters and displays values greater than or equal to a user-defined threshold using a lambda function.
+
+![Output 4](Output-4.png)
+
+---
+
+## 5. Sort Data
+
+Sorts the dataset in ascending or descending order.
+
+![Output 5](Output-5.png)
+
+---
+
+## 6. Display Dataset Statistics (Return Multiple Values)
+
+Displays statistical information including minimum value, maximum value, sum, and average.
+
+![Output 6](Output-6.png)
+
+---
+
+## 7. Exit Program
+
+Terminates the program and displays a farewell message.
+
+![Output 7](Output-7.png)
+
+---
+
+# Project Demonstration Video
+
+Watch the complete project demonstration below:
+
+[▶ View Project Video](https://drive.google.com/file/d/1fvwSDa0VtzieD7E3I62qtXME0C2tOhVA/view?usp=sharing)
+--
+---
 ## How to Run
 
 1. Clone the repository:
