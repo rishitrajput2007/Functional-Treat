@@ -63,7 +63,18 @@ Data-Analyzer-and-Transformer/
 │
 ├── data_analyzer.py
 ├── README.md
+│
+└── outputs/
+    ├── Output-1.png
+    ├── Output-2.png
+    ├── Output-3.png
+    ├── Output-4.png
+    ├── Output-5.png
+    ├── Output-6.png
+    ├── Output-7.png
+    └── project-demo.mp4
 ```
+
 
 ---
 
